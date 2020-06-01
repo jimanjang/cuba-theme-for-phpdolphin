@@ -3,10 +3,10 @@
 $name = 'cuba';
 
 // Theme Author
-$author = 'croco-ly';
+$author = 'laganty';
 
 // Theme URL
-$url = 'https://www.instqram.ml/@anasybal';
+$url = 'https://www.instqram.ml/@laganty_dev';
 
 // Theme Version
 $version = '1.0.0';
