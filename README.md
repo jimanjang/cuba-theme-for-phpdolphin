@@ -8,9 +8,6 @@
 <h3>step.2</h3/>
       <h5>upload the theme in your [theme_path] and turn on from admin panel.</h5/>
 
-# demo
-
-	see my demo [ http://veva.tk ]
 
 # scren
 <img src="https://camo.envatousercontent.com/e80839b4ff7b853718710cca9898d5784d488363/68747470733a2f2f612e746f7034746f702e696f2f705f313631306c6c676833332e706e67">
