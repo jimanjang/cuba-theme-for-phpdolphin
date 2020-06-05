@@ -1,5 +1,5 @@
 # cuba-theme-for-phpdolphin
-	note: these theme is only for http://phpsocial.com  phpsocial, phpdolphin
+<strong>note: these theme is only for http://phpsocial.com  phpsocial, phpdolphin </strong>
 	cuba theme for phpdolphin is great theme if you need to build a.facebook & instagram clone!
 
 # how to use?
